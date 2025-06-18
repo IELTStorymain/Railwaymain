@@ -1,0 +1,123 @@
+[
+  {
+    "level": "A1",
+    "question": "What is your name?",
+    "options": ["I am a doctor", "My name is John", "Yes, I am", "In the park"],
+    "answer": "My name is John"
+  },
+  {
+    "level": "A1",
+    "question": "Where _____ you from?",
+    "options": ["is", "are", "am", "be"],
+    "answer": "are"
+  },
+  {
+    "level": "A1",
+    "question": "This is _____ book.",
+    "options": ["a", "an", "the", "some"],
+    "answer": "a"
+  },
+  {
+    "level": "A1",
+    "question": "I _____ coffee every morning.",
+    "options": ["drink", "drinks", "drinking", "drank"],
+    "answer": "drink"
+  },
+  {
+    "level": "A1",
+    "question": "She _____ to school by bus.",
+    "options": ["go", "goes", "going", "went"],
+    "answer": "goes"
+  },
+  {
+    "level": "A2",
+    "question": "I have been living here _____ five years.",
+    "options": ["since", "from", "for", "by"],
+    "answer": "for"
+  },
+  {
+    "level": "A2",
+    "question": "Yesterday I _____ to the cinema.",
+    "options": ["go", "went", "going", "gone"],
+    "answer": "went"
+  },
+  {
+    "level": "A2",
+    "question": "There are _____ people in the room.",
+    "options": ["much", "many", "a lot", "few"],
+    "answer": "many"
+  },
+  {
+    "level": "A2",
+    "question": "I'm _____ tired to go out tonight.",
+    "options": ["too", "very", "so", "enough"],
+    "answer": "too"
+  },
+  {
+    "level": "A2",
+    "question": "Can you help me _____ this bag?",
+    "options": ["carry", "carrying", "carried", "to carry"],
+    "answer": "carry"
+  },
+  {
+    "level": "B1",
+    "question": "If I _____ time, I would travel more.",
+    "options": ["have", "had", "would have", "will have"],
+    "answer": "had"
+  },
+  {
+    "level": "B1",
+    "question": "The meeting _____ by the time I arrived.",
+    "options": ["started", "has started", "had started", "was starting"],
+    "answer": "had started"
+  },
+  {
+    "level": "B1",
+    "question": "I wish I _____ speak French fluently.",
+    "options": ["can", "could", "will", "would"],
+    "answer": "could"
+  },
+  {
+    "level": "B1",
+    "question": "The book _____ by millions of people.",
+    "options": ["read", "was read", "has read", "is reading"],
+    "answer": "was read"
+  },
+  {
+    "level": "B1",
+    "question": "I'm looking forward _____ you again.",
+    "options": ["see", "to see", "seeing", "to seeing"],
+    "answer": "to seeing"
+  },
+  {
+    "level": "B2",
+    "question": "Despite _____ hard, he didn't pass the exam.",
+    "options": ["study", "to study", "studied", "studying"],
+    "answer": "studying"
+  },
+  {
+    "level": "B2",
+    "question": "The project _____ completed by next month.",
+    "options": ["will have been", "will be", "would be", "has been"],
+    "answer": "will have been"
+  },
+  {
+    "level": "B2",
+    "question": "_____ the weather, we decided to go hiking.",
+    "options": ["Although", "Despite", "In spite", "Regardless of"],
+    "answer": "Regardless of"
+  },
+  {
+    "level": "B2",
+    "question": "I'd rather you _____ smoke in here.",
+    "options": ["don't", "didn't", "won't", "wouldn't"],
+    "answer": "didn't"
+  },
+  {
+    "level": "B2",
+    "question": "The company is _____ of expanding internationally.",
+    "options": ["capable", "able", "possible", "probable"],
+    "answer": "capable"
+  }
+]
+
